@@ -9,6 +9,8 @@ body{
     text-align: center;
 }
 
+button { -webkit-tap-highlight-color: transparent; }
+
 main{
     display: flex;
     justify-content: center;
